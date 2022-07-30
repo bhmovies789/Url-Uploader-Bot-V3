@@ -18,6 +18,10 @@
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
+     },
+    "AUTH_USERS": {
+      "description": "auth user id seprated by space",
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
